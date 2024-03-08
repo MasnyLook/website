@@ -1,6 +1,5 @@
 ---
 title: "list"
-permalink: /
 layout: default
 ---
 
