@@ -1,6 +1,5 @@
 ---
 title: "C++"
-permalink: /
 layout: default
 ---
 
